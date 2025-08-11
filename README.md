@@ -31,21 +31,21 @@
 
 <div align="left">
   <!-- Excel -->
-  <a href="https://github.com/topics/Excel" target="_blank">
+  <a href="https://github.com/KOBData1?tab=repositories&q=topic:excel" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="30" alt="Excel logo" style="padding: 5px; vertical-align: middle;" />
     My Excel Projects
   </a>
   <br><br>
 
   <!-- Power BI -->
-  <a href="https://github.com/topics/PowerBI" target="_blank">
+  <a href="https://github.com/KOBData1?tab=repositories&q=topic:powerbi" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" height="30" alt="Power BI logo" style="padding: 5px; vertical-align: middle;" />
     My Power BI Projects
   </a>
   <br><br>
 
   <!-- Microsoft SQL Server -->
-  <a href="https://github.com/topics/SQL" target="_blank">
+  <a href="https://github.com/KOBData1?tab=repositories&q=topic:sql" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="Microsoft SQL Server logo" style="padding: 5px; vertical-align: middle;" />
     My SQL Projects
   </a>
